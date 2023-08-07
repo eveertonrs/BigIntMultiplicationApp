@@ -1,0 +1,15 @@
+C:\Projetos\BigIntMultiplicationApp\bin\Debug\net7.0\BigIntMultiplicationApp.exe
+C:\Projetos\BigIntMultiplicationApp\bin\Debug\net7.0\BigIntMultiplicationApp.deps.json
+C:\Projetos\BigIntMultiplicationApp\bin\Debug\net7.0\BigIntMultiplicationApp.runtimeconfig.json
+C:\Projetos\BigIntMultiplicationApp\bin\Debug\net7.0\BigIntMultiplicationApp.dll
+C:\Projetos\BigIntMultiplicationApp\bin\Debug\net7.0\BigIntMultiplicationApp.pdb
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.csproj.AssemblyReference.cache
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.AssemblyInfoInputs.cache
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.AssemblyInfo.cs
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.csproj.CoreCompileInputs.cache
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.dll
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\refint\BigIntMultiplicationApp.dll
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.pdb
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\BigIntMultiplicationApp.genruntimeconfig.cache
+C:\Projetos\BigIntMultiplicationApp\obj\Debug\net7.0\ref\BigIntMultiplicationApp.dll
